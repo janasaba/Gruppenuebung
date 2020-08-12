@@ -23,10 +23,9 @@ public class Gruppe1 {
 			;
 		{
 			System.out.println("Ist richtig");
+			scan.close();
 
 		}
-		
-		Scanner.close();
 	}
 
 }
