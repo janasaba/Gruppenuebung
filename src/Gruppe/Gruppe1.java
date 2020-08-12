@@ -14,7 +14,7 @@ public class Gruppe1 {
 		if (bLand == 16) {
 			System.out.println("Richtig!");
 		} else if (bLand < 16) {
-			System.out.println("Leider falsch");
+			System.out.println("Du Depp, duuuuuu!");
 		} else if (bLand > 16) {
 			System.out.println("so viele Bundeslaender haben wir nicht");
 					
