@@ -9,9 +9,9 @@ public class Bundeslaender {
 			ergebnis = "Richtig!";
 		} else 
 			if(anzahlParameter < 16) {
-			ergebnis = "Du Depp, du! Zu wenig!";
+			ergebnis = "Schade, die Anwort ist falsch. Deutschland hat mehr Bundesländer.";
 			} else 
-			{ergebnis = "Du Depp, du! Zu viele!";
+			{ergebnis = "Schade, die Anwort ist falsch. So viele Bundesländer hat Deutschland nicht.";
 		}
 		return ergebnis;
 		
